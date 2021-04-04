@@ -11,6 +11,7 @@ fbprophet = "^0.7.1"
 pystan = "^2.19.1"
 plotly = "^4.14.3"
 scipy = "^1.6.1"
+scikit-learn = "^0.24.1"
 
 [tool.poetry.dev-dependencies]
 
